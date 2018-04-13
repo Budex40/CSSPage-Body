@@ -88,6 +88,7 @@ span.psw{
   to{-webkit-transform:scale(1)}
 }
 /*Style changes for cANCEL buttons ans span*/
+  /*Code by Talabi Olabode FOLORUNSO*/
 @media screen and (max-width: 300px){
   spam.psw{
     display:block;
